@@ -1,3 +1,8 @@
+import './app.css';
+import './components/header/header.js';
+import './components/joke/joke.js';
+import './components/footer/footer.js';
+
 function setJokeAttributes(joke) {
     const jokeElement = document.querySelector('papajoke-joke');
     jokeElement.setAttribute('joke', joke.joke);
