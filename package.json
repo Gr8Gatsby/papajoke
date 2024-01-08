@@ -7,9 +7,10 @@
     "scripts": {
         "dev": "rollup -c rollup.config.js --watch",
         "test": "vitest",
-        "watch": "concurrently \"npm run dev\" \"npm run test\"",
+        "watch": "concurrently \"npm run dev\" \"npm run start\" \"npm run test\"",
         "build": "rimraf dist && rollup -g -c rollup.config.js",
-        "build:prod": "cross-env NODE_ENV=production rollup -c"
+        "build:prod": "cross-env NODE_ENV=production rollup -c",
+        "start": "http-server . -p 8888 --ssl --cert localhost+2.pem --key localhost+2-key.pem"
     },
     "devDependencies": {
         "@babel/preset-env": "^7.23.7",
@@ -17,6 +18,7 @@
         "@rollup/plugin-node-resolve": "^15.2.3",
         "concurrently": "^8.2.2",
         "cross-env": "^7.0.3",
+        "http-server": "^14.1.1",
         "jest": "^29.7.0",
         "jsdom": "^23.0.1",
         "rimraf": "^5.0.5",
