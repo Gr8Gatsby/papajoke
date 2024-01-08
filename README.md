@@ -26,13 +26,13 @@ npm install
 #### Setting Up HTTPS for Local Development with mkcert
 
 1. Install mkcert and set up the local CA:
-   \```bash
+   ```bash
    mkcert -install
-   \```
+   ```
 2. Create a locally-trusted certificate for your development server:
-   \```bash
+   ```bash
    mkcert localhost 127.0.0.1 ::1
-   \```
+   ```
    This will generate `localhost+2.pem` and `localhost+2-key.pem` in your current directory.
 
 
