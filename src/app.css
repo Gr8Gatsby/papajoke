@@ -23,3 +23,22 @@ main {
     width: 50%;
     margin: 0 auto;
 }
+
+papajoke-nav::part(button) {
+    border-radius: 2rem;
+    background-color: transparent;
+    border: 2px solid #fff;
+    padding: 15px;
+    width:150px;
+  }
+  
+  papajoke-nav::part(button):hover {
+    background-color: #eee;
+    border: 2px solid black;
+  }
+  
+  papajoke-nav {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+  }

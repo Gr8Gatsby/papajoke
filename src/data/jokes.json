@@ -1,28 +1,52 @@
 [
-    {
-      "joke": "I don't trust stairs.",
-      "punchline": "They are always up to something.",
-      "why": "This joke is funny because of the double meaning of 'up to something'—referring both to the stairs leading upwards and the idiomatic expression for scheming."
-    },
-    {
-      "joke": "Today, my son asked, 'Can I have a bookmark?'",
-      "punchline": "I burst into tears—11 years old and he still doesn't know my name is Brian.",
-      "why": "The humor arises from the play on words where 'bookmark' is misinterpreted as 'Mark,' suggesting the son doesn't know his father's name."
-    },
-    {
-      "joke": "Why didn’t Han Solo enjoy his steak dinner?",
-      "punchline": "It was Chewie.",
-      "why": "This joke is a pun on the name 'Chewie' (Chewbacca from Star Wars) and the word 'chewy,' describing the texture of tough meat."
-    },
-    {
-      "joke": "Why do you never see elephants hiding in trees?",
-      "punchline": "Because they’re so good at it.",
-      "why": "The joke's humor lies in the absurdity of the idea, suggesting elephants are hiding in trees so well that they're never seen."
-    },
-    {
-      "joke": "Did you hear about the racing snail who got rid of his shell?",
-      "punchline": "He thought it would make him faster, but it just made him sluggish.",
-      "why": "This joke plays on the dual meaning of 'sluggish': slow and lethargic, and like a slug (a snail without a shell)."
-    }
-  ]
-  
+  {
+      "joke": "What do you call a fake noodle?",
+      "punchline": "An Impasta.",
+      "why": "The humor is derived from the play on words, combining 'imposter' (a person who pretends to be someone else) and 'pasta'."
+  },
+  {
+      "joke": "Why don't scientists trust atoms?",
+      "punchline": "Because they make up everything.",
+      "why": "This joke is based on a pun. 'Make up everything' refers to atoms being the basic building blocks of matter and also to the idea of fabrication or lying."
+  },
+  {
+      "joke": "What do you call cheese that isn't yours?",
+      "punchline": "Nacho cheese.",
+      "why": "This joke is a play on words where 'nacho', a type of cheese, sounds like 'not yo’ (not your)."
+  },
+  {
+      "joke": "What's orange and sounds like a parrot?",
+      "punchline": "A carrot.",
+      "why": "The humor comes from the similarity in sound between 'carrot' and 'parrot', despite being completely unrelated items."
+  },
+  {
+      "joke": "How does a penguin build its house?",
+      "punchline": "Igloos it together.",
+      "why": "The punchline is a pun on 'igloos' sounding like 'glues', referencing the way penguins in cold climates might build homes."
+  },
+  {
+      "joke": "What's brown and sticky?",
+      "punchline": "A stick.",
+      "why": "This joke relies on the dual meaning of 'sticky'—both as an adjective to describe how something feels and as a noun (stick)."
+  },
+  {
+      "joke": "Why don’t skeletons fight each other?",
+      "punchline": "They don’t have the guts.",
+      "why": "This joke plays on the fact that skeletons lack internal organs ('guts'), while also using the idiomatic expression 'not having the guts' (not having the courage)."
+  },
+  {
+      "joke": "What did one wall say to the other wall?",
+      "punchline": "I’ll meet you at the corner.",
+      "why": "This joke humorously personifies walls, suggesting they can meet and speak like humans, with a literal interpretation of meeting at a corner."
+  },
+  {
+      "joke": "What do you call an alligator in a vest?",
+      "punchline": "An investigator.",
+      "why": "The joke is a pun on 'investigator', blending the words 'investigator' and 'alligator' in a whimsical way."
+  },
+  {
+      "joke": "Why did the bicycle fall over?",
+      "punchline": "Because it was two-tired.",
+      "why": "This joke is a play on words. 'Two-tired' sounds like 'too tired', but it also refers to the two tires of a bicycle."
+  }
+]
